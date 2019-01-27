@@ -31,8 +31,8 @@ namespace IdentityserverWithoutEntityFramework.Server
                 .AddGoogle("Google", options =>
                 {
                     options.SignInScheme = IdentityServerConstants.ExternalCookieAuthenticationScheme;
-                    options.ClientId = "434483408261-55tc8n0cs4ff1fe21ea8df2o443v2iuc.apps.googleusercontent.com";
-                    options.ClientSecret = "3gcoTrEDPPJ0ukn_aYYT6PWo";
+                    options.ClientId = "865116459669-3hinsnimjlirmjv8qh2hm5ldnmr0ecd7.apps.googleusercontent.com";
+                    options.ClientSecret = "w-EJt4Vs0jRsz1w4x3Vku4LP";
                 });
         }
 
